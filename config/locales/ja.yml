@@ -1,0 +1,22 @@
+ja:
+  hello: こんにちは
+  books: 本の一覧
+
+  title: タイトル
+  memo: メモ
+  author: 著者
+  picture: 画像
+
+  show: 参照
+  back: 戻る
+  edit: 編集
+  destroy: 削除
+
+  editing_book: 本の編集
+  new_book: 本の登録
+
+  confirmation_sentence: よろしいですか？
+
+  creation_notice: 本が登録されました
+  update_notice: 本が更新されました
+  deletion_notice: 本が削除されました
