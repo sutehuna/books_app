@@ -61,3 +61,5 @@ gem 'carrierwave'
 group :development do
   gem 'rubocop-rails', require: false
 end
+
+gem 'kaminari'
