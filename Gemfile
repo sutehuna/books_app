@@ -59,6 +59,7 @@ gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 gem 'carrierwave'
 
 group :development do
+  gem 'rubocop-fjord', require: false
   gem 'rubocop-rails', require: false
 end
 
