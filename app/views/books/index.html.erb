@@ -1,5 +1,7 @@
 <p id="notice"><%= notice %></p>
 
+<h1>Books</h1>
+<%= paginate @books %>
 <h1><%=t(:books)%></h1>
 <table>
   <thead>
@@ -28,5 +30,7 @@
 </table>
 
 <br>
+
+<%= paginate @books %>
 
 <%= link_to t(:new_book), new_book_path %>
